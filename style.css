@@ -9,6 +9,9 @@ body {
   background: #f7f8fc;
   color: #333;
 }
+body {
+  padding-top: 70px; /* or adjust depending on your navbar height */
+}
 
 /* NAVIGATION */
 header {
@@ -187,5 +190,6 @@ footer {
   text-decoration: none;
   z-index: 999;
 }
+
 
 
