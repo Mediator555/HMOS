@@ -21,6 +21,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  position: fixed
+  top: 0
 }
 
 .logo {
@@ -176,3 +178,4 @@ footer {
   text-decoration: none;
   z-index: 999;
 }
+
